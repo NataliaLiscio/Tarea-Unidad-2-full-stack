@@ -1,0 +1,33 @@
+h1{
+    text-transform: uppercase;
+}
+h2{
+    background-color: coral;
+    color: darkorchid;
+}
+p{
+    font-size: 22px;
+    color: deeppink;
+}
+.Destacados{
+    color: dodgerblue;
+    font-style: italic;
+}
+#Bienvenidos{
+    width: 320px;
+    background-color: goldenrod;
+    text-align: center;
+    padding-top: 30px 0;
+    border: 2px solid red;
+    border-top: 5px dashed blue;
+    margin-left: 200px;
+}
+#Bienvenidos:hover{
+    background-color: slateblue ;
+    cursor: pointer;
+}
+#Bienvenidos a:hover{
+    color: red;
+    text-decoration: none;
+}
+
